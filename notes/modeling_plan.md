@@ -7,7 +7,7 @@ Predict high-volume complaint agencies by borough
 
 ## Data source
 - **S3 path:** s3://phippsa1-nyc311-data/processed/modeling_data/
-- **Records:** [number from df.shape[0]]
+- **Records:** 46,447
 - **Athena query:** sql/athena_to_modeling.sql
 
 ## Features
